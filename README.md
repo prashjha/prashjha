@@ -6,7 +6,7 @@ My research connects mechanics, applied mathematics, and scientific computing to
 
 ## Selected software
 
-- **[top_optim](https://github.com/CEADpx/top_optim)** — joint material and topology optimization of stimulus-responsive soft materials.
+- **[MatTO](https://github.com/CEADpx/matto)** — joint material and topology optimization of stimulus-responsive soft materials.
 - **[PeriDEM](https://github.com/prashjha/PeriDEM)** — simulation of deformable and breakable particles using peridynamics and contact mechanics.
 - **[Neural operators](https://github.com/CEADpx/neural_operators)** — operator learning, surrogate modeling, and applications in Bayesian inference.
 - **[NLMech](https://github.com/nonlocalmodels/NLMech)** — numerical approximation and parallel simulation of nonlocal models.
